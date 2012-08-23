@@ -1,0 +1,4 @@
+CSGO
+====
+
+CS:GO Config
